@@ -1,0 +1,9 @@
+out/
+dist/
+reports/
+package-input/
+*.class
+*.jar
+.idea/
+.vscode/
+*.iml
